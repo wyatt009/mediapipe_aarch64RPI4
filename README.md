@@ -11,7 +11,7 @@ after following the guide up until
 step 8. Disable carotene_o4t in third_party/BUILD
 
 Before running the command on step 9. Build the package
-Is to create an symlink to python3 and python3
+Is to create an symlink to python3 and python
 using this command
 sudo ln -s /usr/bin/python3 /usr/bin/python
 
